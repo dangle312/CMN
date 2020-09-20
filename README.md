@@ -1,2 +1,0 @@
-# CMN
-Exercise of CMN
